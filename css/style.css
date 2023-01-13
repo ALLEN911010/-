@@ -1,0 +1,381 @@
+@charset "utf-8";
+
+a {
+    color: #000000;
+    transition: 0.5s;
+    text-decoration: none;
+    border-radius: 0;
+    padding: 80;
+}
+a:visited {
+    color: #000000;
+}
+a:hover { color: #ff0000; }
+img{
+    max-width: 100%;
+    border: 0;
+    margin: auto;
+}
+
+
+
+
+
+
+
+body {
+    background-color: #ffffff;
+    color: #666666;
+    font-size: 16px;
+    line-height: 2;
+	font-family: Gotham, "微軟正黑體", Helvetica, Arial, sans-serif;
+ 
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    align-items: center;
+    margin: auto;
+    padding-left: 125px;
+    padding-top: 27px;
+    padding-bottom: 23px;
+	padding-right: 100px;
+}
+.logo {
+    width: 240px;
+    height: 55px;
+    padding-left: 0px;
+}
+.nav {
+    text-align: left;
+	margin-left: 100px
+  
+	
+}
+
+.header .nav a {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: #000000;
+    margin: 0;
+    font-size: 24pt;
+	
+
+}
+
+
+.header .nav a:hover {
+    border-bottom-width: 1px;
+    border-bottom-style: groove;
+}
+
+#search{
+	margin-right: 50px;
+}
+
+
+.main {
+ 
+    display: flex;
+    padding-top: 156px;
+ padding-right: 125px;
+	padding-left: 130px;
+	padding-bottom: 210px;
+	
+}
+
+.section{
+
+    
+}
+
+.article02{
+     
+	
+}
+.article03{
+    margin-top: 30pt;
+    background-color: #f3c640;
+    width: 208px;
+    height: 59px;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 24px;
+	padding-top: 10px;
+		
+	
+
+	
+}
+.section2{
+    margin-left: 179px;
+	
+	 width: 240px;
+
+}
+
+.Serve{
+	
+	padding-left: 80px
+		
+	
+	
+	
+}
+.article22{
+    width: 240px;
+    font-size: 18px;
+}
+.section3{
+    margin-left: 145px;
+    width: 245px
+}
+	
+
+
+.set{
+	
+	padding-left: 80px
+	
+}
+.article33{
+    width: 240px;
+    font-size: 18px;
+}
+.section4{
+	margin-left: 152px;
+	width: 244px
+}
+
+
+.technion{
+	padding-left: 80px
+}
+
+.article42{
+    width: 244px;
+    font-size: 18px;
+}
+
+.article{
+    
+    display: block;
+}
+.Featured{
+	height: 923px;
+    background-color: #dddddd;
+	
+	
+}
+ 
+.producttitle{
+   
+   padding-top: 109px;
+	
+	padding-left: 130px;
+   
+  
+}
+
+
+
+
+.contain{
+	display: flex;
+	
+	padding-left: 130px;
+	padding-right: 189px;
+	
+	
+	
+}
+
+.product1{
+	
+}
+
+
+.productphoto1{
+	
+	width: 485px;
+	height: 385px;
+}
+.productintroduce{
+    width: 484px;
+    height: 230px;
+    background-color: #f2f2f2;
+}
+
+.line{
+    width: 480px;
+    
+    height: 84px;
+	
+}
+
+
+.linea{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	background-color: #f3c640;
+	border-radius: 25px;
+	
+}
+
+
+
+.product2{
+	margin-left: 72px;
+}
+
+.product3{
+	
+	margin-left: 72px;
+}
+
+
+
+
+
+
+.white{
+	height: 274px;
+    
+}
+
+.charitable{
+	
+	margin-left: 131px;
+	padding-bottom: 67px;
+	
+}
+
+
+
+
+
+.white2{
+	height: 175px;
+}
+
+
+
+.footer{
+	height: 610px;
+	background-color: #2d3344;
+	padding-top: 56px;
+	padding-left: 130px;
+	padding-right: 130px;
+	
+		
+}
+
+
+.footersection1{
+	display: flex;
+	justify-content:center ;
+}
+
+
+
+
+
+.footersection2 {
+		
+	margin-top: 55px;
+	
+}
+
+
+.footersection3{
+	padding-top: 56px;
+	display: flex;
+	
+	
+}
+
+
+.address{
+    width: 357px;
+    font-size: 18px;
+    line-height: 44px;
+}
+.article03 strong a {
+}
+
+.article03 strong a:hover {
+    border-bottom-width: 1px;
+    border-bottom-style: groove;
+}
+
+	
+
+.productintroduce .line .linea {
+    font-weight: bolder;
+}
+
+
+.about{
+    position: absolute;
+      right:130px;
+
+}
+
+
+
+.footernav{
+	
+	width: 780px;
+	font-size: 24px;
+	margin-left:500px;
+	text-align: right
+	
+}
+.footernav a {
+    color: #d4d4d4;
+    transition: 0.5s;
+      padding-right:45px;
+	padding-left: 45px;
+}
+
+.footernav a:hover {
+    color: #909090;
+	
+	}
+   
+
+.question{
+
+	display: flex;
+	margin-left:500px;
+	padding-top: 20px;
+	line-height: 44px;
+}
+
+.wan{
+	width: 191px;
+    margin-left: 65px;
+	
+
+}
+
+.wan a {
+	color: #9fa0a0;
+    transition: 0.5s;
+	
+}
+
+
+.how a {
+	color: #9fa0a0;
+    transition: 0.5s;
+	
+}

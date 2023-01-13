@@ -1,0 +1,443 @@
+@charset "utf-8";
+A:link { FONT-STYLE: normal; TEXT-DECORATION: none; color: #000;} 
+A:visited { FONT-STYLE: normal; TEXT-DECORATION: none; color: #999;} 
+A:active { FONT-STYLE: normal; TEXT-DECORATION: none; color: #FF0000;} 
+A:hover {FONT-STYLE: normal;  TEXT-DECORATION: none; color: #03E331;}
+
+.header .nav a {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: #000000;
+    margin: 0;
+    font-size: 24pt;
+	
+
+}
+
+
+.header .nav a:hover {
+    border-bottom-width: 1px;
+    border-bottom-style: groove;
+}
+body {margin: 0; padding: 0; font-family: 'Noto Sans TC',Gotham, Helvetica Neue, Helvetica, Arial,微軟正黑體," sans-serif";}
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.both{clear: both;}
+img{max-width: 100%;}
+
+/*以下是自設定*/
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    align-items: center;
+    margin: auto;
+    padding-left: 125px;
+    padding-top: 27px;
+    padding-bottom: 23px;
+	padding-right: 100px;
+}
+.logo {
+    width: 240px;
+    height: 55px;
+    padding-left: 0px;
+}
+.nav {
+    text-align: left;
+	margin-left: 100px
+  
+	
+}
+
+.header .nav a {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: #000000;
+    margin: 0;
+    font-size: 24pt;
+	
+
+}
+
+
+.header .nav a:hover {
+    border-bottom-width: 1px;
+    border-bottom-style: groove;
+}
+
+#search{
+	margin-right: 50px;
+}
+
+
+.foot {
+	height: 610px;
+	background-color: #2d3344;
+	padding-top: 56px;
+	padding-left: 130px;
+	padding-right: 130px;
+	
+}
+
+.footersection1{
+	display: flex;
+	justify-content:center ;
+}
+
+
+
+
+
+.footersection2 {
+		
+	margin-top: 55px;
+	
+}
+
+
+.footersection3{
+	padding-top: 56px;
+	display: flex;
+	
+	
+}
+
+
+.address{
+    width: 357px;
+    font-size: 18px;
+    line-height: 44px;
+}
+
+
+
+	
+
+
+.about{
+    position: absolute;
+      right:130px;
+
+}
+
+
+.footernav{
+	
+	width: 780px;
+	font-size: 24px;
+	margin-left:500px;
+	text-align: right
+	
+}
+.footernav a {
+    color: #d4d4d4;
+    transition: 0.5s;
+      padding-right:45px;
+	padding-left: 45px;
+}
+
+.footernav a:hover {
+    color: #909090;
+	
+	}
+   
+
+.question{
+
+	display: flex;
+	margin-left:500px;
+	padding-top: 20px;
+	line-height: 44px;
+}
+
+.wan{
+	width: 191px;
+    margin-left: 65px;
+	
+
+}
+
+.wan a {
+	color: #9fa0a0;
+    transition: 0.5s;
+	
+}
+
+
+.how a {
+	color: #9fa0a0;
+    transition: 0.5s;
+	
+}
+.head {
+}
+.com {
+}
+.company_a {
+   display: flex;
+	   width:56.82%;
+		  
+		   
+  
+}
+.contant {
+}
+.prd_ban {
+    padding-top: 115px;
+    padding-right: 130px;
+    padding-left: 130px;
+}
+.contact_icon {
+    width: 10%;
+    margin-top: 24px;
+    margin-left: 80%;
+	margin-bottom: 148px;
+		    
+		
+}
+
+.prd_list {
+	background-color: #EFEEEE
+}
+.text {
+    color: 000;
+	font-size: 36pt;
+	margin-left: 47%;
+	padding-top: 73px;
+	padding-bottom: 73px
+	
+		
+		
+}
+.prd_list_icon {
+	background-color: #efeeee;
+		
+	
+		
+}
+.list {
+	margin-left: 14%;
+	margin-right: 14%;
+	padding-bottom: 119px;		
+		
+}
+.value{
+	margin-bottom: 72px;
+	margin-top:-120px;
+	font-weight:400;
+	font-size: 36pt;
+	color:#6f6f6f ;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.a_img {width:118px;
+	margin-left: 36%;
+	margin-right: 36px;
+	margin-top: 73px;
+	
+		
+}
+
+.b_img {
+position: relative;
+	width: 118px;
+	top: -118px;
+	left: 151px
+		
+}
+
+.imga {position: relative;
+	width: 166px;
+	top: -232.5px;
+	left: 298px;
+}
+
+.icon_logo{padding-top: 80px;
+	font-size: 36pt;
+	font-weight: 400;
+	color:#6f6f6f ;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	}
+
+
+
+.line{width: 2px;
+	height: 45px;
+	background-color: #e0c671;
+	position: relative;
+    right: 20px;
+    bottom: -3px;
+}
+.line a {
+    width: 2px;
+    height: 45px;
+	background-color: #e0c671;
+	position: relative;
+    right: 20px;
+    bottom: -3px;
+}
+
+
+
+
+
+
+
+.us_banner{margin-bottom: 160px}
+.main_us{display: flex;
+	margin-bottom: 160px;
+	margin-left: 115px;
+	margin-right: 115px;
+	
+}
+
+.asid1{width: 40%;
+	font-size: 18pt;
+	font-family: Consolas, Noto Sans TC,Gotham, Helvetica Neue, Helvetica, Arial,"微軟正黑體"," sans-serif";
+	color: #888888;
+	font-weight: 400;
+	padding-left: 40px;
+	line-height: 36pt
+	
+}
+
+.img1 {width: 60%
+}
+
+.main_love{display: flex;
+	margin-bottom: 160px;
+	margin-left: 115px;
+	margin-right: 115px;
+}
+
+.imd_love {width: 60%
+}
+.asid2 {width: 40%;
+	margin-left: 73px;
+	font-size: 18pt;
+	font-family: Consolas, Noto Sans TC,Gotham, Helvetica Neue, Helvetica, Arial,"微軟正黑體"," sans-serif";
+	color: #888888;
+	font-weight: 400;
+	padding-left: 50px;
+	line-height: 36pt;
+	
+	
+}
+
+.mark_logo {
+}
+.m_logo {
+	display: flex;
+	align-items: center;
+    justify-content: space-evenly;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 56px;
+	margin-bottom: 190px;
+
+}
+.m_logo a{
+}
+.m_logo b{
+}
+.m_logo c{
+}
+.m_logo d{
+}
+.m_logo e{
+}
+.markfull {padding-left:20%;padding-right:20%
+	
+		
+}
+.sf1 {
+    color: #125FA3;
+    font-size: 48px;
+	font-weight:900;
+	display: flex;
+    align-items: center;
+	padding-top: 52px;
+	font-family: Consolas, Noto Sans TC,Gotham, Helvetica Neue, Helvetica, Arial,"微軟正黑體"," sans-serif";
+	
+}
+.sp {
+    font-size: 16px;
+    line-height: 2;
+	margin-top: -3px;
+	font-weight:100;
+	position: relative;
+	left: 73px;
+    color: #afafaf;
+    font-family: Gotham, Helvetica Neue, Helvetica, "Arial", sans-serif;
+	
+	
+}
+
+.mt {font-size: 30px;
+	font-family: Consolas, Noto Sans TC,Gotham, Helvetica Neue, Helvetica, Arial,"微軟正黑體"," sans-serif";
+	color: #555555;
+	font-weight:600;
+	margin-top: 40px;
+	margin-bottom: 22px;
+
+	
+	
+}
+.sf2 {color: #125FA3;
+    font-size: 48px;
+	font-weight:900;
+	display: flex;
+    align-items: center;
+	padding-top: 52px;
+	font-family: Consolas, Noto Sans TC,Gotham, Helvetica Neue, Helvetica, Arial,"微軟正黑體"," sans-serif";
+}
+.cer_img {margin-top: 80px;
+	display: flex;
+	align-items: stretch;
+    justify-content: flex-start;
+}
+.d_lo_text {
+	color: #125FA3;
+	margin-left: 41%;
+    font-size: 48px;
+	font-weight:900;
+	display: flex;
+    align-items: center;
+	padding-top: 52px;
+	font-family: Consolas, Noto Sans TC,Gotham, Helvetica Neue, Helvetica, Arial,"微軟正黑體"," sans-serif";
+}
+.spa {font-size: 16px;
+    line-height: 2;
+	margin-top: -3px;
+	font-weight:100;
+	position: relative;
+	left: 73px;
+    color: #afafaf;
+    font-family: Gotham, Helvetica Neue, Helvetica, "Arial", sans-serif;
+	margin-left: 41.2%;
+}
+.asid3{
+	font-size: 18pt;
+	font-family: Consolas, Noto Sans TC,Gotham, Helvetica Neue, Helvetica, Arial,"微軟正黑體"," sans-serif";
+	color: #888888;
+	font-weight: 400;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left:26%;
+	margin-right: 20%
+	}
+
+
+/*阿勳從這邊開始*/
