@@ -268,6 +268,254 @@ body {
 
 
 
+/*cat*/
+.beforebrand{
+	height: 10px;
+}
+
+
+.brand{
+	
+	height: 140px;
+	display: flex;
+}
+
+.brandimg{
+    height: 140px;
+    display: flex;
+    
+    
+	
+	
+}
+
+.brandimgmore{
+    font-size: 30px;
+    text-align: center;
+	padding-top: 40px;
+    
+	height: 140px;
+	
+}
+
+.brandimgmore a {
+	color:#6B6C6B;
+	transition: 0.5s; 
+	text-decoration: none; }
+
+.brandimgmore a:hover {
+    color: #020202;
+}
+
+
+
+
+
+
+.back{
+	padding-left: 150px;
+	padding-right: 165px;
+	
+	
+	
+}
+
+
+.white1{
+	height: 225px;
+}
+
+
+.field1{
+	display: flex;
+}
+
+
+
+.P2P1UP{
+	
+	
+	width: 485px;
+	height: 400px;
+	background-color:#ffffff;
+	
+	
+	
+}
+
+
+
+.smallbrandandcapsule{
+	display: flex;
+	
+	
+	
+	
+	
+}
+
+.smallbrand{
+	
+	margin-left: 31px;
+	margin-top: 13px;
+}
+
+.capsule{
+	padding-left: 110px;
+	float: right;
+	
+}
+
+
+
+.aircondition{
+	
+	
+	height: 255px;
+}
+
+
+
+.particularity{
+	
+	float: right;
+	width: 480px;
+	height: 80px;
+}
+
+.P2P1DOWN{
+	
+
+    width: 484px;
+    height: 240px;
+    background-color: #f2f2f2;
+}
+
+
+.word3{
+	
+	padding-top: 35px;
+	text-align: center;
+	
+	
+}
+
+
+.linegray{
+	
+	padding-left:  30px;
+	padding-right:  30px;
+}
+
+	
+.numbermuch{
+    padding-top: 10px;
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+	
+.lineask{
+	
+	 text-align: center;
+	padding-top: 20px;
+}
+
+.row2{
+	margin-left: 72px;
+	
+}
+
+.row3{
+	margin-left: 72px;
+	
+}
+
+
+
+.field2{
+	display: flex;
+}
+
+
+
+.BUSINIS{
+	margin-left: 10px;
+	padding-left: 4px;
+	padding-top: 2px;
+	margin-top: 13px;
+    height: 37px;
+	width: 76px;
+	background-color: #d8d8d8;
+	text-align: center;
+	border-radius: 30PX;
+	
+		
+	
+	
+}
+
+.capsule6{
+	
+	padding-left: 34px;
+	float: right;
+	
+	
+	
+}
+
+
+.field3{
+	display: flex;
+}
+
+
+
+
+.field4{
+	display: flex
+}
+
+
+
+
+
+
+
+
+
+
+
+.whitelast{
+	
+	height: 260px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**F*/
+
 .footer{
 	height: 610px;
 	background-color: #2d3344;
